@@ -1,1 +1,127 @@
-{"sections":{"image_banner_7xtJJF":{"type":"image-banner","custom_css":[".banner__box {border-radius: 10px;}"],"settings":{"image":"shopify:\/\/shop_images\/banner-dto-home.webp","image_overlay_opacity":0,"image_height":"small","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"scheme-fa615276-027e-4d19-8a17-19e6605468c0","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"main":{"type":"main-page","custom_css":["h1 {color: #4a2a04;}","p {color: #4a2a04;}"],"settings":{"padding_top":28,"padding_bottom":28}},"collection_list_9EEM4J":{"type":"collection-list","blocks":{"featured_collection_pEMr8A":{"type":"featured_collection","settings":{"collection":"fruta-liofilizada"}},"featured_collection_YjnELw":{"type":"featured_collection","settings":{"collection":"tes-e-infusiones"}},"featured_collection_fLHjkJ":{"type":"featured_collection","settings":{"collection":"tes-de-temporada"}}},"block_order":["featured_collection_pEMr8A","featured_collection_YjnELw","featured_collection_fLHjkJ"],"custom_css":[".card__media {background-color: white;}","img {border-radius: 10px;}",".title-wrapper--no-top-margin {justify-content: center;}",".slider-buttons {display: none;}"],"settings":{"title":"Descubre nuestras colecciones","heading_size":"h2","image_ratio":"square","columns_desktop":3,"color_scheme":"scheme-42c5d47f-0a36-42bc-a5cd-6968fa3448ff","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"featured_collection_t6WtFP":{"type":"featured-collection","custom_css":[".slider-buttons {display: none;}","#collection-template--24460667191678__featured_collection_t6WtFP {max-width: 1200px; margin: auto;}"],"settings":{"title":"Todos los productos","heading_size":"h2","description":"<p>Tés premium y frutas liofilizadas 100% naturales<\/p>","show_description":false,"description_style":"body","collection":"todos-los-productos-de-glowing-liquids-tes-premium-y-frutas-liofilizadas","products_to_show":25,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-42c5d47f-0a36-42bc-a5cd-6968fa3448ff","image_ratio":"adapt","image_shape":"blob","show_secondary_image":false,"show_vendor":false,"show_rating":false,"quick_add":"standard","columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}}},"order":["image_banner_7xtJJF","main","collection_list_9EEM4J","featured_collection_t6WtFP"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_7xtJJF": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner__box {border-radius: 10px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/banner-dto-home.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-fa615276-027e-4d19-8a17-19e6605468c0",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {color: #4a2a04;}",
+        "p {color: #4a2a04;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection_t6WtFP": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".slider-buttons {display: none;}",
+        "#collection-template--24460667191678__featured_collection_t6WtFP {max-width: 1200px; margin: auto;}"
+      ],
+      "settings": {
+        "title": "Todos los productos",
+        "heading_size": "h2",
+        "description": "<p>Tés premium y frutas liofilizadas 100% naturales</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "todos-los-productos-de-glowing-liquids-tes-premium-y-frutas-liofilizadas",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-42c5d47f-0a36-42bc-a5cd-6968fa3448ff",
+        "image_ratio": "adapt",
+        "image_shape": "blob",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_9EEM4J": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_pEMr8A": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fruta-liofilizada"
+          }
+        },
+        "featured_collection_YjnELw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tes-e-infusiones"
+          }
+        },
+        "featured_collection_fLHjkJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tes-de-temporada"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_pEMr8A",
+        "featured_collection_YjnELw",
+        "featured_collection_fLHjkJ"
+      ],
+      "custom_css": [
+        ".card__media {background-color: white;}",
+        "img {border-radius: 10px;}",
+        ".title-wrapper--no-top-margin {justify-content: center;}",
+        ".slider-buttons {display: none;}"
+      ],
+      "settings": {
+        "title": "Descubre nuestras colecciones",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-42c5d47f-0a36-42bc-a5cd-6968fa3448ff",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_7xtJJF",
+    "featured_collection_t6WtFP",
+    "collection_list_9EEM4J",
+    "main"
+  ]
+}
