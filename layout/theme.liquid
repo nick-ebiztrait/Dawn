@@ -25,7 +25,7 @@
     {% if page_description %}
       <meta name="description" content="{{ page_description | escape }}">
     {% endif %}
-    
+
     <link rel="preload" as="style" media="screen" href="https://glowingliquids.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
 
     
@@ -258,7 +258,8 @@
         }
       }
     {% endstyle %}
-
+<link rel="preload" href="{{'base.css' | asset_url}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{'base.css' | asset_url }}"></noscript>
     {{ 'base.css' | asset_url | stylesheet_tag }}
     <link rel="stylesheet" href="{{ 'component-cart-items.css' | asset_url }}" media="print" onload="this.media='all'">
 
